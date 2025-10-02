@@ -3,7 +3,7 @@
 
 # demo
 
-<video src="https://github.com/user-attachments/assets/5e720c89-329d-4f87-9afb-efe31c1c8925" controls></video>
+<video src="https://github.com/user-attachments/assets/f4681b25-3c74-4d3a-a3a6-a9a4ccac4fb2" controls></video>
 
 # Bookstore Management Web Application using ASP.NET Core MVC (.NET 8)
 
