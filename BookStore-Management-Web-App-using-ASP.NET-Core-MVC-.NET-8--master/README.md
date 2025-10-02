@@ -19,20 +19,10 @@ Both customers and admins can access this application with role-based functional
 ### 🔹 Customer Features
 - View available books with details (title, author, price, category).
 - Browse through categories to find preferred books.
-- Register, log in, and log out securely.
-- Manage personal account details.
-
-### 🔹 Admin Features
-- Full control over book inventory:
-  - ➕ Add new books  
-  - ✏️ Update existing books  
-  - ❌ Delete unavailable books  
-- Manage book categories.  
-- View and manage registered users.  
+- log in, and log out securely.
 
 ### 🔹 Authentication
-- **User Login & Logout** functionality.  
-- Role-based access (Admin vs Customer).  
+- **User Login & Logout** functionality.   
 - Secure session management for authenticated users.  
 
 ---
@@ -42,8 +32,6 @@ Both customers and admins can access this application with role-based functional
 - **Entity Framework (EF)** – For database access and ORM functionality.  
 - **SQL Server** – Database management system to store books, categories, and users.  
 - **Bootstrap** – Ensures responsive and modern UI design.  
-- **jQuery Validation** – Client-side validation for user-friendly forms.  
-
 ---
 
 ## 📂 Project Architecture
