@@ -1,5 +1,11 @@
 ---
 
+
+# demo
+
+<video src="[https://user-images.githubusercontent.com/.../video.mp4](https://github.com/user-attachments/assets/5e720c89-329d-4f87-9afb-efe31c1c8925
+)" controls></video>
+
 # Bookstore Management Web Application using ASP.NET Core MVC (.NET 8)
 
 Welcome to the Bookstore Management Web Application! This project aims to provide an efficient and user-friendly platform for managing books and categories within a bookstore. Whether you're an admin overseeing book details or a customer exploring available titles, this application has you covered. Below, you'll find an introduction to the key features, technologies, and methodologies utilized in this project.
